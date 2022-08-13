@@ -183,7 +183,7 @@ body {
   height: 50px;
 }
 
-.solutions-button:hover {
+.hero-button:hover {
   background: #188ce8;
 }
 
@@ -322,6 +322,7 @@ body {
 
 .footer {
   background: #2f303a;
+  padding: 60px 0;
 }
 
 .footer-logo {
@@ -337,6 +338,7 @@ body {
 
 .footer-list {
   list-style: none;
+  margin-top: 20px;
 }
 
 .footer-list-item {
